@@ -21,24 +21,3 @@ puts @@names.uniq
 end
 
 end
-# def self.new
-#   @@all << self
-# end
-
-# private
-#
-# def pluto
-#   @puppy.push("Pluto")
-# end
-#
-# def fido
-#   @puppy.push("Fido")
-# end
-#
-# def Maddy
-#   @puppy.push("Maddy")
-# end
-#
-#
-#
-# end
